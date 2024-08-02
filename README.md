@@ -1,2 +1,2 @@
 # EclipseTPS
-Eclipse V18.0 
+Various scripts and projects for Eclipse V18.0 
